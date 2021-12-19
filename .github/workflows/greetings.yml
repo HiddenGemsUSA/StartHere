@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'This was your first issue. Good job. You are autosubscribed to the pull request and will be notified by github when there are any changes.'
+        pr-message: 'This was your first pull request. Good job. You are autosubscribed to the pull request and will be notified by github when there are any changes.'
