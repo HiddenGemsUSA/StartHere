@@ -2,7 +2,7 @@
 HiddenGemsUSA programming mentoship project, start here (onboarding)
 
 
-Welcome. We're looking to find an mentor young people to develop skills and/or careers in computer programming.
+Welcome. We're looking to find and mentor young people to develop skills and/or careers in computer programming.
 
 ## What is a "Hidden Gem"?
 What is a "Hidden Gem"?
@@ -33,7 +33,7 @@ The idea of Lost Einsteins is that society doesn't give everyone an equal opport
 
 So Hidden Gems is about providing that opportunity. It's about finding those who could be "lost einsteins" and making sure they don't get lost.
 
-### Why programming?
+## Why computer programming?
 Programming has a number of excellent features:
 1) Programming is predominantly objective. Either the code works or it doesn't.
 2) Programming provides instant feedback. You can check if your code works or not.
@@ -69,7 +69,7 @@ In many ways, learning programming is like learning to play the piano or another
   ```
 </details>
 
-### What's different about Hidden Gems USA vs other programming camps or enrichment programs?
+## What's different about Hidden Gems USA vs other programming camps or enrichment programs?
 
 1. **Free.** Hidden Gems USA is 100% free. We will never charge you if you are a hidden gem.
 2. **Multi-year support.** It will take several years to become "great". Other programs focus on short term (1 week to 1 semester).
