@@ -13,12 +13,18 @@ First, let's define a "gem". A gem is as a young person who has (1) high aptitud
 2. It's not enough to be motivated. If you work hard but don't have aptitude, you won't be a gem.
 
 The good news: you don't have to be a gem at the beginning. People don't know where they fit until they try it.
+
+<details>
+  <summary>Click for details!</summary>
+  
 - We work with you to figure out if you have aptitude and motivation. It takes about 1-3 months to figure it out. After that evalution period, we'll know if you're in 1 of 4 categories:
   - HIGH APTITUDE + HIGH MOTIVATION => you're a gem. We want to encourage you and give you the tools to succeed. Since you want to work hard, we will push/guide you and you willl go fast. (Guess: this is 0.05%-5% of people. **Most rare!**)
   - LOWER APTITUDE + HIGH MOTIVATION => you will work hard, at that matters a lot. We will encourage you and allow you to work at your own pace. (Guess: this is ~5% of people.)
   - HIGH APTITUDE + LOW MOTIVATION => you're smart, but you don't work hard. If you want to stick around, you can. But we won't push you. And if you get stuck in your learning, the help you get is mostly self-service. (Guess: this is ~20% of people.)
   - LOWER APTITUDE + LOW MOTIVATION => you won't work hard on learning programming. And learning programming does require determination. We wish you well in your other endeavors. (Guess: this is ~80% of people.)
-
+  
+</details>
+  
 ### "Hidden" + "Gems"
 > "Talent is equally distributed; opportunity is not" [link](https://www.inc.com/thomas-koulopoulos/a-study-of-one-million-inventors-identified-key-to-success-its-not-talent.html)
 
@@ -39,13 +45,14 @@ Programming has a number of excellent features:
 2) Programming provides instant feedback. You can check if your code works or not.
 3) Programming and programming related careers are plentiful and lucrative.
 4) Programming doesn't require expensive equipment. 
-  a) 99% of it can be done on any computer, including a sub-$100 chromebook.
-  b) There are no expensive books. All the documentation is online, including youtube and stackoverflow.
+    1. 99% of it can be done on any computer, including a sub-$100 chromebook.
+    2. There are no expensive books. All the documentation is online, including youtube and stackoverflow.
 6) Programming is not luck based. You have to understand the code.
-7) Progress in programming is based on effort. No effort, no progress.
-8) Programming teaches good life skills: troubleshooting, endurance, systematic thinking, continuous learning, and learning how to learn.
+7) Programming can't be faked, not in the long run. You have to understand the code. 
+8) Progress in programming is based on effort. No effort, no progress.
+9) Programming teaches good life skills: troubleshooting, leaning from mistakes, endurance, systematic thinking, continuous learning, and learning how to learn.
 
-If programming is so great, why don't more people do it?
+>If programming is so great, why don't more people do it?
 1) Programming is hard, even for experienced programmers. But it does get easier over time.
 2) It's easy to get stuck on a programming problem and give up. Learning programming requires _endurance_.
 
@@ -74,13 +81,9 @@ In many ways, learning programming is like learning to play the piano or another
 1. **Free.** Hidden Gems USA is 100% free. We will never charge you if you are a hidden gem.
 2. **Multi-year support.** It will take several years to become "great". Other programs focus on short term (1 week to 1 semester).
 4. **Small group focus.** We focus on getting a small number of hidden gems to "great". Other programs may focus on getting a large number of students to okay.
-5. **Intense.** Hidden Gems USA Hidden Gems USA is meant to be the main focus of the student outside of school, or at least one of the Top 3. If the student has too many outside focuses, Hidden Gems USA will not be a good fit.
-6. **Outside barriers addressed.** We are aware of complex outside barriers to learning and how to address them. We provide whatever is needed. This would include computers, but also extends to transportation, babysitting, nutrition, etc. Other programs might focus only on the content, but not these outside barriers.
-
-
-
-
-
+5. **We push you** We continually assess individual learning and tailor the learning path to be challenging, so they learn more. Other programs might go too slow, often at the pace of the middle student or the slowest students. 
+6. **Intense.** Hidden Gems USA is meant to be the main focus of the student outside of school, or at least one of the Top 3. If the student has too many outside focuses, Hidden Gems USA will not be a good fit. Other programs don't require this intense focus because they aren't aiming for great.
+7. **Outside barriers addressed.** We are aware of complex outside barriers to learning and how to address them. We provide whatever is needed. This would include computers, but also extends to transportation, babysitting, emotional counseling, nutrition, etc. Other programs might focus only on the content, but not these outside barriers.
 
 
 
